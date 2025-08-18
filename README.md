@@ -2,19 +2,24 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=D771E0&center=true&vCenter=true&width=435&lines=Fueling+curiosity+one+line+at+a+time...;Always+learning+and+growing.;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=D771E0&center=true&vCenter=true&width=650&lines=Fueling+curiosity+one+line+at+a+time...;Always+learning+and+growing.;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,py" />
-  </a>
-</p>
 
+![HTML](https://img.shields.io/badge/HTML5-68507B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8D769A?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-28193D?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-68507B?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-46315C?style=for-the-badge&logo=logoColor=white)
+![Python](https://img.shields.io/badge/Python-8D769A?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-28193D?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-46315C?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8D769A?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-28193D?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ### 📊 My GitHub Stats & Activity
