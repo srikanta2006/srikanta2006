@@ -32,6 +32,12 @@
 </p>
 
 ---
+## LeetCode 
+
+ <p >
+  <img src="https://leetcard.jacoblin.cool/srikantabellamkonda?ext=heatmap&theme=dark&font=Fira+Code&bg=000000&border_radius=15&title_color=DDA0FF&heatmap=purple&icon_color=BC6FF1&text_color=E0B0FF" width=47% />
+</p>
+
 
 ### 🤝 Let's Connect Across the Universe
 <p align="center">
