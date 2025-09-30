@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srikanta2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanta2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=srikanta2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanta2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
