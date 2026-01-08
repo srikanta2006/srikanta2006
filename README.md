@@ -32,10 +32,14 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srikanta2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srikanta2006/srikanta2006/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srikanta2006/srikanta2006/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/srikanta2006/srikanta2006/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/srikanta2006/srikanta2006/output/github-snake-dark.svg?cache=1">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/srikanta2006/srikanta2006/output/github-snake.svg?cache=1">
+  <img alt="github-snake" 
+    src="https://raw.githubusercontent.com/srikanta2006/srikanta2006/output/github-snake.svg?cache=1">
 </picture>
+
 </p>
 
 ---
