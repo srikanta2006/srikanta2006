@@ -63,6 +63,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2" />
 
+## 📈 Activity (Last 30 Days)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanta2006&theme=tokyo-night&hide_border=true&bg_color=1e1b29&line=9b5de5&point=8a4dce&color=cfcfcf" alt="Activity Graph" height="300" />
+</div>
+
 ## 🧩 Problem Solving
 <p align="center">
   <img width="60%" src="https://leetcard.jacoblin.cool/srikantabellamkonda?ext=heatmap&theme=dark&border_radius=14" />
